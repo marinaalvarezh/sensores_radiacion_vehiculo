@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     //prueba developer
+                    //prueba screen
                 }
             }
         }
