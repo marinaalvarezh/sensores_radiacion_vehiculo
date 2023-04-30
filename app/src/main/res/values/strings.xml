@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">sensores_radiacion_vehiculo</string>
     <string name="Beacon_Simulator_Text">Beacon Simulator</string>
+    <string name="Search">Search</string>
 </resources>
